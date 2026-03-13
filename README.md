@@ -39,7 +39,7 @@ Or just **download** `gemini-chat.html` and double-click it.
 | Field | Example |
 |-------|---------|
 | Your Name | Ashwani |
-| Your Dad's Name | Ramesh Ji |
+| Your Dad's Name | Bishnu Ji |
 | Gemini API Key | `AIza...` |
 
 ### 4. Start Chatting 🎉
